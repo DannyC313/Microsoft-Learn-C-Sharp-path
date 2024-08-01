@@ -1,0 +1,14 @@
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\obj\Debug\net8.0\Array basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\obj\Debug\net8.0\Array basics.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\obj\Debug\net8.0\Array basics.AssemblyInfo.cs
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\obj\Debug\net8.0\Array basics.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\bin\Debug\net8.0\Array basics.exe
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\bin\Debug\net8.0\Array basics.deps.json
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\bin\Debug\net8.0\Array basics.runtimeconfig.json
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\bin\Debug\net8.0\Array basics.dll
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\bin\Debug\net8.0\Array basics.pdb
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\obj\Debug\net8.0\Array basics.dll
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\obj\Debug\net8.0\refint\Array basics.dll
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\obj\Debug\net8.0\Array basics.pdb
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\obj\Debug\net8.0\Array basics.genruntimeconfig.cache
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\Finding fraudulant orders\obj\Debug\net8.0\ref\Array basics.dll
