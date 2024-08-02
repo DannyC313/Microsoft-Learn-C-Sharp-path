@@ -1,0 +1,14 @@
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\bin\Debug\net8.0\report the order IDs.exe
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\bin\Debug\net8.0\report the order IDs.deps.json
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\bin\Debug\net8.0\report the order IDs.runtimeconfig.json
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\bin\Debug\net8.0\report the order IDs.dll
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\bin\Debug\net8.0\report the order IDs.pdb
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\obj\Debug\net8.0\report the order IDs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\obj\Debug\net8.0\report the order IDs.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\obj\Debug\net8.0\report the order IDs.AssemblyInfo.cs
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\obj\Debug\net8.0\report the order IDs.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\obj\Debug\net8.0\report the order IDs.dll
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\obj\Debug\net8.0\refint\report the order IDs.dll
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\obj\Debug\net8.0\report the order IDs.pdb
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\obj\Debug\net8.0\report the order IDs.genruntimeconfig.cache
+C:\Users\swill\OneDrive\Desktop\Microsoft Classes\report the order IDs\obj\Debug\net8.0\ref\report the order IDs.dll
